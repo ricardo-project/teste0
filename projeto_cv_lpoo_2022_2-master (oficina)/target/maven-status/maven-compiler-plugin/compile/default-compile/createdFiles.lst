@@ -1,0 +1,16 @@
+model\dao\PersistenciaJPA.class
+model\Veiculo.class
+model\Funcionario.class
+model\MaoObra.class
+model\Servico.class
+model\Peca.class
+model\StatusServico.class
+model\Pessoa.class
+model\Orcamento.class
+model\Cargo.class
+model\Cliente.class
+model\FormaPagamento.class
+model\Equipe.class
+model\dao\PersistenciaJDBC.class
+model\dao\InterfacePersistencia.class
+model\Pagamento.class
